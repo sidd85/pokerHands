@@ -1,0 +1,19 @@
+{
+  "name": "pokerhands",
+  "version": "1.0.0",
+  "description": "Poker Hands Web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/solver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
